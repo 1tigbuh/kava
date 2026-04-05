@@ -6,6 +6,7 @@ public class Main {
     private static final double CONV_K = 2.20462;
 
     public static void main(String[] args) {
+        System.out.println("Version 1.0.");
         System.out.println("App for measures converting.");
 
         double kgs = 5;
